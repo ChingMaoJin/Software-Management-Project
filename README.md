@@ -1,5 +1,5 @@
 # 📦 Software Management Project
-
+- You may refer to the report for further description
 ## 🧠 Key Concepts
 - **Version Control**
 - **Software Testing**
