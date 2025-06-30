@@ -1,11 +1,12 @@
-# Project Name: Software Management Project
+# 📦 Software Management Project
 
-# Concepts: Version Control, Software Testing and modularity
+## 🧠 Key Concepts
+- **Version Control**
+- **Software Testing**
+- **Modularity**
 
-# Compilation: javac *.java
-This will compile all java files. Please ensure that you are in the correct directory. 
+## 🛠️ Compilation
+To compile all Java files, ensure you are in the correct directory and run:
 
-# Execution: java TestCode
-This will run the testcode first then the production code. 
-
-# Description: You may refer to the report for further description
+```bash
+javac *.java
