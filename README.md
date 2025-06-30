@@ -6,12 +6,13 @@
 - **Modularity**
 
 ## Compilation
-To compile all Java files, ensure you are in the correct directory and run:
-
+- To compile all Java files, ensure you are in the correct directory and run:
 ```bash
 javac *.java
+```
 
 ## Execution
 - This runs the test code then the production code
 ```bash
 java TestCode
+```
