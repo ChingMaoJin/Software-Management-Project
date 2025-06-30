@@ -1,11 +1,11 @@
-# 📦 Software Management Project
+# Software Management Project
 - You may refer to the report for further description
-## 🧠 Key Concepts
+## Key Concepts
 - **Version Control**
 - **Software Testing**
 - **Modularity**
 
-## 🛠️ Compilation
+## Compilation
 To compile all Java files, ensure you are in the correct directory and run:
 
 ```bash
